@@ -1,0 +1,12 @@
+name: SpringData
+server:
+  port: 8080
+  servlet:
+    context-path: /ticket
+
+
+es:
+  host: localhost
+  port: 9200
+  username : elastic
+  password : 123456
